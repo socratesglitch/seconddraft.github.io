@@ -1,6 +1,3 @@
----
-layout: default
----
 
 <article>
   <h2>First Post Title</h2>
