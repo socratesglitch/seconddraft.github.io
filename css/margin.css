@@ -5,7 +5,7 @@
 }
 
 .main {
-  flex: 2;             /* main block takes 2 parts */
+  flex: 3;             /* main block takes 2 parts */
 }
 
 .sider {
