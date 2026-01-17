@@ -1,12 +1,12 @@
+## First Post Title
 
-<article>
-  <h2>First Post Title</h2>
-  <p>Opening paragraph of the blog post.</p>
-</article>
+Opening paragraph of your blog post. Pure text, no structure duplication.
 
-<article>
-  <h2>Another Post</h2>
-  <p>Older content goes here.</p>
-</article>
+Another paragraph continues the thought.
 
+---
+
+## Another Post Title
+
+Older content goes below newer content.
 
