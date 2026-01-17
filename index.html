@@ -10,7 +10,7 @@ layout: default
   {% for post in site.posts %}
     <h2>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <p></p>{{ post.excerpt }}</p>
+      <p>{{ post.excerpt }}</p>
     </h2>
   {% endfor %}
 </article>
