@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Second Draft
+excerpt_separator: <excerp></excerp>
+
 
